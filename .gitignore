@@ -1,0 +1,10 @@
+# Compiled directory
+public
+
+# Dependency directory
+node_modules
+
+# System file
+.DS_Store
+.idea
+.vscode
